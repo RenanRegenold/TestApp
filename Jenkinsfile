@@ -63,5 +63,4 @@ pipeline {
 //                sh './gradlew -v'                
 //            }
 //        }
-    }
 }
